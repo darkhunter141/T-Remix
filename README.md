@@ -74,7 +74,7 @@ termux-setup-storage.
    $apt update &&apt upgrade
 
    ```
-   ```
+
 
    $ apt install git&&apt install php
 
