@@ -69,6 +69,7 @@ termux-setup-storage.
 ## Termux
 
   ```
+  ```
    $apt update &&apt upgrade
 
    ```
