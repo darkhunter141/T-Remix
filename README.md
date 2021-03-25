@@ -68,9 +68,12 @@ termux-setup-storage.
 
 ## Termux
 
+  ```
+   $apt update &&apt upgrade
+
    ```
 
-   $ apt install git 
+   $ apt install git&&apt install php
 
    ```
 
@@ -82,7 +85,7 @@ termux-setup-storage.
 
    ```
 
-   $ git clone 
+   $ git clone https://github.com/darkhunter141/T-Remix
 
    ```
 
