@@ -68,10 +68,12 @@ termux-setup-storage.
 
 ## Termux
 
+
   ```
   ```
    $apt update &&apt upgrade
 
+   ```
    ```
 
    $ apt install git&&apt install php
